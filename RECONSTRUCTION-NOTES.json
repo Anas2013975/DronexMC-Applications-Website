@@ -1,0 +1,42 @@
+{
+  "project": "DronexMC Applications",
+  "basis": "Reconstructed from the uploaded Kimi conversation transcript",
+  "files": [
+    ".env.example",
+    ".gitignore",
+    "README.md",
+    "next-env.d.ts",
+    "next.config.mjs",
+    "package.json",
+    "src/app/admin/login/page.tsx",
+    "src/app/admin/page.tsx",
+    "src/app/api/admin/applications/route.ts",
+    "src/app/api/admin/login/route.ts",
+    "src/app/api/admin/notes/route.ts",
+    "src/app/api/admin/webhooks/route.ts",
+    "src/app/api/applications/route.ts",
+    "src/app/api/auth/callback/route.ts",
+    "src/app/api/auth/login/route.ts",
+    "src/app/api/auth/logout/route.ts",
+    "src/app/api/me/route.ts",
+    "src/app/api/status/[ref]/route.ts",
+    "src/app/apply/[category]/page.tsx",
+    "src/app/dashboard/page.tsx",
+    "src/app/globals.css",
+    "src/app/layout.tsx",
+    "src/app/page.tsx",
+    "src/app/status/[ref]/page.tsx",
+    "src/lib/auth.ts",
+    "src/lib/questions.ts",
+    "src/lib/security.ts",
+    "src/lib/supabase.ts",
+    "src/middleware.ts",
+    "supabase/schema.sql",
+    "tsconfig.json"
+  ],
+  "limitations": [
+    "The original Kimi backend folder was saved in a separate inaccessible environment.",
+    "The original question-bank attachment was referenced but not included in the transcript.",
+    "No npm install, typecheck, or production build was run in this environment."
+  ]
+}
